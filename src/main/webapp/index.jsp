@@ -76,7 +76,7 @@
   </head>
   <body>
     <div class="textColumn">
-      <h1>lemme just</h1>
+      <h1>nice yar hogya</h1>
       <p>Your first AWS Elastic Beanstalk Tomcat application is now running on your own dedicated environment in the AWS Cloud</p>
       <p>This environment is launched with Elastic Beanstalk</p>
     </div>
