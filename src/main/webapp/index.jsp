@@ -77,17 +77,8 @@
   <body>
     <div class="textColumn">
       <h1>Congratulations</h1>
-      <p>Your first AWS Elastic Beanstalk Corretto application is now running on your own dedicated environment in the AWS Cloud</p>
-      <p>This environment is launched with Elastic Beanstalk Corretto Platform</p>
-    </div>
-    <div class="linksColumn">
-      <h2>What's Next?</h2>
-      <ul>
-        <li><a href="http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html">AWS Elastic Beanstalk overview</a></li>
-	</li>
-        <li><a href="http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/concepts.html">AWS Elastic Beanstalk concepts</a></li>
-	</li>
-      </ul>
+      <p>Your first AWS Elastic Beanstalk Tomcat application is now running on your own dedicated environment in the AWS Cloud</p>
+      <p>This environment is launched with Elastic Beanstalk</p>
     </div>
   </body>
 </html>
