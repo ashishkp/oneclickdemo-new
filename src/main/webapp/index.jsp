@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Elastic Beanstalk - Ashish</title>
+    <title>Elastic Beanstalk</title>
     <style>
       body {
         color: #ffffff;
@@ -76,7 +76,7 @@
   </head>
   <body>
     <div class="textColumn">
-      <h1>Hi, this is Test - Testing the final new update made!</h1>
+      <p>Hi, This is Test - Testing the final new update made!</p>
       <p>Your first AWS Elastic Beanstalk Tomcat application is now running on your own dedicated environment in the AWS Cloud</p>
       <p>This environment is launched with Elastic Beanstalk</p>
     </div>
